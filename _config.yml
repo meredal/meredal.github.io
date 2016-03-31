@@ -1,0 +1,58 @@
+# Site wide configuration
+
+title:            Learning Front End Development
+locale:           en_US
+url: "http://meredal.github.io"
+url: "http://localhost:4000"
+
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Meredith Dalenburg
+  avatar: bio-photo.jpg
+  bio: "Better known to a lot of people as Mere or Mere Bear.
+  Lover of coffee, wine, popcorn, lifting heavy things, travel, and adventure...
+  though not necessarily in that order."
+  email:
+  facebook: #mldalenburg
+  github: #meredal
+  linkedin: #meredithdalenburg
+  instagram: #meredal
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
