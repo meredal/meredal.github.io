@@ -18,7 +18,7 @@ comments: true
 </div>
 </section><!-- /#table-of-contents -->
 
-##Learning Command Line (as outlined from the BF)
+##Learning Command Line
 
 ###Lessons
 - __Command Line Crash Course__ - <http://goo.gl/PXcy7> 

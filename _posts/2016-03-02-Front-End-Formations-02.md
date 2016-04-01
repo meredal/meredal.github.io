@@ -21,7 +21,7 @@ comments: true
 ##Front End Formations
 
 ###Lessons
-1. __Overview and Updates__ - Get an overview of HTML5 and CSS3, and learn which HTML elements have been updated in HTML5.
+1. __Overview & Updates__ - Get an overview of HTML5 and CSS3, and learn which HTML elements have been updated in HTML5.
 2. __HTML5 Elements__ - Learn all of the new HTML5 elements, including the section, article, header, footer, and time elements, and also several others that will help make your markup more semantic.
 3. __HTML5 Forms__ - Learn all of the new HTML5 form input types, elements, and attributes.
 4. __CSS3 Styles__ - Learn modern CSS styling techniques, including border radius, box shadow, text shadow, box sizing, multiple backgrounds, and gradients.

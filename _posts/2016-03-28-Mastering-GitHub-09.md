@@ -23,9 +23,9 @@ comments: true
 ###Lessons
 1. __Fork Based Workflows__ - Tuning your Git config and better collaboration through forking.
 2. __Single Repository Workflows__ - Best practices for collaborating in a single repository.
-3. __Tags, Branches and Releases__ - Tracking production releases using Git Tags, release branches, and GitHub Releases.
+3. __Tags, Branches & Releases__ - Tracking production releases using Git Tags, release branches, and GitHub Releases.
 4. __Issues, Wiki's and GitHub Pages__ - Using GitHub Issues, Wikis, and Pages to collaborate and communicate.
-5. __Managing and Securing GitHub__ - Repo setup, tracking project progress and managing access to your repositories.
+5. __Managing & Securing GitHub__ - Repo setup, tracking project progress and managing access to your repositories.
 6. __Automating GitHub__ - Integrating existing services, creating custom webhooks, and working with the GitHub API.
 
 ###Thoughts
