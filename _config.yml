@@ -49,11 +49,11 @@ owner:
   Lover of coffee, wine, popcorn, lifting heavy things, travel, and adventure...
   though not necessarily in that order."
   email:
-  facebook: "https://www.facebook.com/mldalenburg"
-  instagram: "https://www.instagram.com/meredal/"
-  github: "https://github.com/meredal"
-  linkedin: "https://www.linkedin.com/in/meredithdalenburg"
-  
+  facebook: "mldalenburg"
+  instagram: "meredal"
+  github: "meredal"
+  linkedin: "meredithdalenburg"
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
