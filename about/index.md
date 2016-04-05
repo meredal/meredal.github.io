@@ -9,7 +9,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-##A Little Background
+
 Hi! My name is Meredith. You can tell from the title of the page what I am writing about, but I wanted to have a short section with a little bit about me and why in the world I am attempting to be some type of developer. 
  
 I have a Bachelors Degree (2007) in Elementary Education and Mathematics and a Masters Degree (2012) in Exercise Science and Nutrition Behaviors. Not the most relatable degrees, but we'll get there. After undergrad, I spent two years as a teacher, then went to grad school while working in the Athletics and Recreation Department at my university. I spent my time working in building operations, aquatics, and special events.  
