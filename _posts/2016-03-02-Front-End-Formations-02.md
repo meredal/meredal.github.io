@@ -18,9 +18,10 @@ comments: true
 </div>
 </section><!-- /#table-of-contents -->
 
-##Front End Formations
+## Front End Formations
 
-###Lessons
+### Lessons
+
 1. __Overview & Updates__ - Get an overview of HTML5 and CSS3, and learn which HTML elements have been updated in HTML5.
 2. __HTML5 Elements__ - Learn all of the new HTML5 elements, including the section, article, header, footer, and time elements, and also several others that will help make your markup more semantic.
 3. __HTML5 Forms__ - Learn all of the new HTML5 form input types, elements, and attributes.
@@ -28,5 +29,6 @@ comments: true
 5. __Fonts & Interactions__ - Learn how to use web fonts with @font-face, create smooth transitions and manipulated elements in CSS with the transition and transform properties, and write CSS according to the principles of progressive enhancement.
 
 
-###Thoughts
+### Thoughts
+
 _Most of this course just really built on the basics and fundamentals. I took a lot of quick notes along the way to help me remember what an element is or does or how to style something, and then putting it into practice in the challenges at the end of the lesson. Pretty quick and straightforward, but it should be nice to build more on these basics of HTML5 and CSS3 as I move forward._

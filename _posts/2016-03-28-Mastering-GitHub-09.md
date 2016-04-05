@@ -18,9 +18,10 @@ comments: true
 </div>
 </section><!-- /#table-of-contents -->
 
-##Mastering GitHub
+## Mastering GitHub
 
-###Lessons
+### Lessons
+ 
 1. __Fork Based Workflows__ - Tuning your Git config and better collaboration through forking.
 2. __Single Repository Workflows__ - Best practices for collaborating in a single repository.
 3. __Tags, Branches & Releases__ - Tracking production releases using Git Tags, release branches, and GitHub Releases.
@@ -28,5 +29,6 @@ comments: true
 5. __Managing & Securing GitHub__ - Repo setup, tracking project progress and managing access to your repositories.
 6. __Automating GitHub__ - Integrating existing services, creating custom webhooks, and working with the GitHub API.
 
-###Thoughts
+### Thoughts
+
 _SOOOOO much GitHub information. I think some of the most important information came in the first few lessons. They probably took me longer to complete than what CodeSchool says it should have taken, but I wanted to really understand what it was that I was doing and take my time. From what I can tell right now, forking and single repo workflows will be really important for use in the future. I feel like my understanding of repos and GitHub has really grown (and apparently exceeded what some people understand about it according to the boyfriend). After finishing these lessons I feel confident that I'll be able to effectively use GitHub in the workplace._

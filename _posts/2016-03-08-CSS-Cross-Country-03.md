@@ -18,9 +18,10 @@ comments: true
 </div>
 </section><!-- /#table-of-contents -->
 
-##CSS Cross Country
+## CSS Cross Country
 
-###Lessons
+### Lessons
+
 1. __Frost-Proof Fundamentals__ - Adding style, selectors, the cascade, and floats
 2. __Clear Carving__ - Clearing floats, inheritance, and specificity
 3. __Box Bindings__ - The box model, positioning, and z-index
@@ -30,7 +31,8 @@ comments: true
 7. __Sprightly Slaloms__ - Image replacement and sprites
 8. __Pseudo Sitzmark__ - Pseudo classes and pseudo elements
 
-###Thoughts
+### Thoughts
+
 _I started writing on this one before I finished the whole set of lessons. Why? Well, I started the first lesson and felt like I had NO idea what I was doing. I could kinda follow the lessons but then I got into the challenges and I was lost. I felt like I didn't quite understand what they were asking me to do with the CSS. My head was thinking, "This might be the end of my ability to understand this stuff". This is a whole new type of field for me to try to understand so there have been some nerves here and there that it will all be a little too complicated at some point._
 
 _Clearly, I got worried too soon. I started the second lesson, and it turned right back around for me and everything seemed to make some sense again. I went back to the challenges on the first lesson and realized what I wasn't understanding the first time, the difference between class, id, and element selectors and the differences of how everything was written.  Once I figured it out, it made everything flow again and I could understand what I was doing and the vocabulary that the teachers in the videos were using._
