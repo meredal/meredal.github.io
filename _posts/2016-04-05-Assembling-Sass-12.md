@@ -18,9 +18,11 @@ comments: true
 </div>
 </section><!-- /#table-of-contents -->
 
-##Assembling Sass
 
-###Lessons 
+## Assembling Sass
+
+### Lessons 
+
 1. __Foundation__ - An introduction to Sass, imports, comments, and nesting.
 2. __Variable__ - Creation and use of recallable information.
 3. __Mixin__ - Writing reusable styles mixed with optional arguments.
@@ -29,7 +31,8 @@ comments: true
 6. __Math + Color__ - Perform arithmetic and color alterations directly to stylesheet values.
 7. __Responsive__ - Simplify and optimize your responsive design workflow via Sass.
 
-###Thoughts
+### Thoughts
+
 _These lessons brought me back into using and working with CSS with a new addition to it. Starting with a preprocessor to basically write the CSS for me: Sass. This was a bit of a change after only looking at command line and github for the last couple weeks._
 
 _Quick props to Code School for the way that they build on your previous knowledge. I feel like I can understand these new concepts after I have learned the long hand version before it. I was reminded of math when I was younger, learning alllll the steps to a long problem and then learning how to do the same function in your calculator, or some other shortened version. That is kinda like Sass and CSS._
