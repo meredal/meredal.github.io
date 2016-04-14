@@ -23,15 +23,62 @@ comments: true
 
 ### Lessons
 
-1. __Core Concepts__ - Understanding the "new" web | Why use Photoshop for web design? | Decoding screen size and resolution
-2. __Setting Up Photoshop for Web Work__ - Creating a web design workspace | Creating documents for web projects | Web Color Models | Adjusting Photoshop color settings | Creating a developer-friendly file
-3. __Designing Responsively__ - What is responsive design? | Choosing the right breakpoints for your design | Creating responsive templates in Photoshop
-4. __Creating a Wireframe__ - Reviewing client specs | Creating a sketch | Exploring grid systems | Setting up your project | Building your wireframe with shapes and text
-5. __Creating Aesthetic Elements__ - Developing a Color Theme | Choosing the right fonts | Setting up character and paragraph styles | Finding images for your mockup 
-6. __Creating a UI Kit with Photoshop__ - Choosing a UI theme | Using icon fonts and sets | Adding UI elements to your wireframe | Saving UI elements as shapes
-7. __Assembling a Page Mockup__ - Applying your color scheme | Styling navigation | Styling input areas | Adding copy from your client | Adding images to your mockup | Adding the finishing touches to your design
-8. __Optimizing Web Graphics__ -  Understanding when to use images vs. CSS | Decoding web file formats | Optimizing individual images | Using the Photoshop web asset generator | How and when to use SVGs
-9. __Creating Image Sprites__ - What is an image sprite? |  Developing a sprite grid | Assembling your sprite | Optimizing sprite images
+1. __Core Concepts__ 
+	- Understanding the "new" web
+	- Why use Photoshop for web design?
+	- Decoding screen size and resolution
+
+2. __Setting Up Photoshop for Web Work__ 
+	- Creating a web design workspace
+	- Creating documents for web projects
+	- Web Color Models
+	- Adjusting Photoshop color settings
+	- Creating a developer-friendly file
+
+3. __Designing Responsively__ 
+	- What is responsive design?
+	- Choosing the right breakpoints for your design
+	- Creating responsive templates in Photoshop
+
+4. __Creating a Wireframe__ 
+	- Reviewing client specs
+	- Creating a sketch
+	- Exploring grid systems
+	- Setting up your project
+	- Building your wireframe with shapes and text
+
+5. __Creating Aesthetic Elements__ 
+	- Developing a Color Theme
+	- Choosing the right fonts
+	- Setting up character and paragraph styles
+	- Finding images for your mockup 
+
+6. __Creating a UI Kit with Photoshop__ 
+	- Choosing a UI theme
+	- Using icon fonts and sets
+	- Adding UI elements to your wireframe
+	- Saving UI elements as shapes
+
+7. __Assembling a Page Mockup__
+	- Applying your color scheme
+	- Styling navigation
+	- Styling input areas
+	- Adding copy from your client
+	- Adding images to your mockup
+	- Adding the finishing touches to your design
+
+8. __Optimizing Web Graphics__ 
+	- Understanding when to use images vs. CSS
+	- Decoding web file formats
+	- Optimizing individual images
+	- Using the Photoshop web asset generator
+	- How and when to use SVGs
+
+9. __Creating Image Sprites__ 
+	- What is an image sprite?
+	- Developing a sprite grid
+	- Assembling your sprite
+	- Optimizing sprite images
 
 ### Thoughts
 
@@ -55,3 +102,6 @@ _This entire course was really helpful in learning about design and keeping my h
 
 ### Photoshop Files from this Course
 
+- [Initial Wireframe](/Photoshop/Two-Trees-Wireframe-V1.psd) - This was the first wireframe that we made. Very simple, just boxes and text.
+- [Second Wireframe](/Photoshop/Two-Trees-Wireframe-V2.psd) - This is the second wireframe with a font theme, some simple icons and UI elements added.
+- [Final Website Mockup](/Photoshop/Two-Trees-Mockup.psd) - The final mockup of the one-page website for Two Trees.
