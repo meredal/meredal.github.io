@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lesson 14 | Design (Code School)"
+title: "Lesson 14 | Design (TeamTreehouse.com)"
 excerpt: "What is Design? | Understanding the Different Types of Design | Great Designers | Format, Line, & Shape | Size & Texture | Color | Composition | Space & Grouping | Contrast & Balance | Emphasis, Movement & Unity | The Art of Critiquing"
 modified: 
 tags: [design, treehouse, design elements, git, github, pages, gitup, learning, front end]
