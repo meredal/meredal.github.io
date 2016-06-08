@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lesson 27 | jQuerify a Buildout"
+title: "Lesson 28 | jQuerify a Buildout"
 excerpt: "Adding jQuery"
 modified: 
 tags: [buildout, html, sass, css, git, github, pages, gitup, learning, front end]
