@@ -5,9 +5,7 @@ tags: [about]
 modified: 2016-02-22T12:47:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: girona.jpg
 ---
 
 This site is now acting as my portfolio. But it started as just a blog to keep track of what I was learning and how I was feeling about it during the process. I wanted to have a short section with a little bit about me and why in the world I am attempting to be some type of developer. 

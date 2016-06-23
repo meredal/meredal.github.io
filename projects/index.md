@@ -5,14 +5,10 @@ tags: [projects]
 modified: 
 comments: true
 image:
-  feature: sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: parkcity3.jpg
 ---
 
 # Jewelery
-
-#### [View here: http://meredal.github.io/jewelrybuildout](http://meredal.github.io/jewelrybuildout/)
 
 Jewelery was built to be responsive and browser compliant. After learning about React, I wanted to build a slideshow on this page. This is still a work in progress, but you can still view the page as it stands here: 
 

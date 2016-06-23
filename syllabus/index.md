@@ -5,9 +5,7 @@ tags: [syllabus]
 modified:
 comments: true
 image:
-  feature: sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: parkcity2.jpg
 ---
 
 This is the path I have followed (so far) for learning. As I take new tutorials, classes, and complete more projects it will be updated below.
