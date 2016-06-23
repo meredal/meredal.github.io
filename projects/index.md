@@ -10,14 +10,15 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-## Two Trees
+# Jewelery
 
-#### [View here: http://meredal.github.io/twotrees](http://meredal.github.io/twotrees/)
+#### [View here: http://meredal.github.io/jewelrybuildout](http://meredal.github.io/jewelrybuildout/)
 
-This was the first page I built. I took a Photoshop for Web Design Tutorial on Lynda.com and built the wireframe and mockup files during the class. Then later, I built the webpage. Two Trees was built with fixed widths. 
+Jewelery was built to be responsive and browser compliant. After learning about React, I wanted to build a slideshow on this page. This is still a work in progress, but you can still view the page as it stands here: 
 
-- To read about the Photoshop Tutorial, check out my [Lesson 15 - Photoshop CC for Web Design](http://meredal.github.io/PhotoshopCC-15/) blog post.
-- To read about building the webpage and some lessons I learned, check out my [Lesson 19 - Building Two Trees](http://meredal.github.io/Two-Trees-Buildout-19/) blog post.
+- I used this free [Dribbble Design](http://dribbble.com/shots/1687932-Jewelery) to build this page from the Photoshop file. Thanks to Vlad Musienko for a great design!
+- To read about building the webpage and some lessons I learned, check out my [Lesson 27 - Building Jewelery](http://meredal.github.io/Third-Buildout-27/) blog post.
+- I am currently working on a Slideshow for this page using React. So it is still a work on progress. Once that is finished I will be blogging about it and post it here.
 
 ***
 
@@ -33,12 +34,11 @@ Selly was built to be responsive. After learning about jQuery, I came back and a
 
 ***
 
-# Jewelery
+# Two Trees
 
-#### [View here: http://meredal.github.io/jewelrybuildout](http://meredal.github.io/jewelrybuildout/)
+#### [View here: http://meredal.github.io/twotrees](http://meredal.github.io/twotrees/)
 
-Jewelery was built to be responsive and browser compliant. After learning about React, I wanted to build a slideshow on this page. This is still a work in progress, but you can still view the page as it stands here: 
+This was the first page I built. I took a Photoshop for Web Design Tutorial on Lynda.com and built the wireframe and mockup files during the class. Then later, I built the webpage. Two Trees was built with fixed widths. 
 
-- I used this free [Dribbble Design](http://dribbble.com/shots/1687932-Jewelery) to build this page from the Photoshop file. Thanks to Vlad Musienko for a great design!
-- To read about building the webpage and some lessons I learned, check out my [Lesson 27 - Building Jewelery](http://meredal.github.io/Third-Buildout-27/) blog post.
-- I am currently working on a Slideshow for this page using React. So it is still a work on progress. Once that is finished I will be blogging about it and post it here.
+- To read about the Photoshop Tutorial, check out my [Lesson 15 - Photoshop CC for Web Design](http://meredal.github.io/PhotoshopCC-15/) blog post.
+- To read about building the webpage and some lessons I learned, check out my [Lesson 19 - Building Two Trees](http://meredal.github.io/Two-Trees-Buildout-19/) blog post.

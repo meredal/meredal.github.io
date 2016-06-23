@@ -38,4 +38,5 @@ _I know it is important to build something with clean code, but also to be build
 ### Related Links
 
 - I wrote about the Photshop Tutorial on my blog in [Lesson 15](http://meredal.github.io/PhotoshopCC-15/).
-- The [Photoshop Mockup](http://meredal.github.io/Photoshop/Two-Trees-Mockup.psd) I used to build the site. It can also be found at the bottom of the Lesson 15 blog post.****
+- The [Photoshop Mockup](http://meredal.github.io/Photoshop/Two-Trees-Mockup.psd) I used to build the site. It can also be found at the bottom of the Lesson 15 blog post.
+- You can see the webpage here: [meredal.github.io/twotrees](http://meredal.github.io/twotrees/)

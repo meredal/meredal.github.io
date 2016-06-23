@@ -38,5 +38,5 @@ _Last but very not least, I made this page responsive. To go with my learning cu
 
 ### Related Links
 
-- No link to the page yet as it is not hosted, but I will post it here.
 - The [Photoshop Mockup](http://meredal.github.io/Photoshop/Selly-Mockup.psd) I used to build the site. 
+- You can see the webpage here: [meredal.github.io/sellysample](http://meredal.github.io/sellysample/)
