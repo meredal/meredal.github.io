@@ -10,6 +10,8 @@ image:
 
 # Jewelery
 
+#### [View here: http://meredal.github.io/jewelrybuildout](http://meredal.github.io/jewelrybuildout/)
+
 Jewelery was built to be responsive and browser compliant. After learning about React, I wanted to build a slideshow on this page. This is still a work in progress, but you can still view the page as it stands here: 
 
 - I used this free [Dribbble Design](http://dribbble.com/shots/1687932-Jewelery) to build this page from the Photoshop file. Thanks to Vlad Musienko for a great design!

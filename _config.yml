@@ -2,7 +2,7 @@
 
 title:            Meredith Dalenburg Portfolio & Learning Blog
 locale:           en_US
-# url: "http://meredal.github.io"
+url: "http://meredal.github.io"
 
 
 
@@ -45,7 +45,7 @@ owner:
   name: Meredith Dalenburg
   avatar: bio-photo.jpg
   bio: "Welcome! I'm Meredith. But most people call me Mere or Mere Bear. I'm a huge fan of coffee, wine, popcorn, lifting heavy things, travel, and adventure... though not necessarily in that order."
-  email:
+  email: "mldalenburg@gmail.com"
   facebook: "mldalenburg"
   instagram: "meredal"
   github: "meredal"
