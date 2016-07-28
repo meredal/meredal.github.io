@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lesson 32 | CSS Standards	"
-excerpt: "BEM | OOCSS | SMACSS | SUITCSS | Atomic"
+excerpt: "BEM | OOCSS | SMACSS | Atomic"
 modified: 
 tags: [standards, css, bem, github, pages, gitup, learning, front end]
 comments: true
@@ -74,13 +74,13 @@ SMACSS works with categorizing and using a specific naming convention so the sam
 So there are categories. And then there are rules to go with each category. I'm borrowing the following section straight from the SMACSS website to explain the categories and their rules:
 
 >1. **Base** rules are the defaults. They are almost exclusively single element selectors but it could include attribute selectors, pseudo-class selectors, child selectors or sibling selectors. Essentially, a base style says that wherever this element is on the page, it should look like this.
-
+>
 >2. **Layout** rules divide the page into sections. Layouts hold one or more modules together.
-
+>
 >3. **Modules** are the reusable, modular parts of our design. They are the callouts, the sidebar sections, the product lists and so on.
-
+>
 >4. **State** rules are ways to describe how our modules or layouts will look when in a particular state. Is it hidden or expanded? Is it active or inactive? They are about describing how a module or layout looks on screens that are smaller or bigger. They are also about describing how a module might look in different views like the home page or the inside page.
-
+>
 >5. Finally, **Theme** rules are similar to state rules in that they describe how modules or layouts might look. Most sites don’t require a layer of theming but it is good to be aware of it.
 
 Now after each set of rules, there are naming conventions to go along with each. 
